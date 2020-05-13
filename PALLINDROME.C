@@ -1,3 +1,4 @@
+// program of checking a no. is pallindrome or not 
 #include <stdio.h>
 int main() {
     int n, reversedN = 0, remainder, originalN;
