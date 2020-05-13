@@ -1,3 +1,4 @@
+// program of checking a no. is leap year or not 
 #include <stdio.h>
 int main() {
    int year;
